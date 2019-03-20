@@ -33,7 +33,7 @@ suites:
         modules:
             enabled:
                 - REST:
-                    url: http://188.246.233.117/api/v1
+                    url: https://demo.evarun.ru/api/v1
                     depends: PhpBrowser
 
 paths:
